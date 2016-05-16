@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.author                 = 'Jon Egeland'
   spec.email                  = 'audiobahn404@gmail.com'
 
-  spec.files                  += Dir['lib/sourced_attributes/*']
+  spec.files                  += Dir['LICENSE', 'lib/**/*']
   spec.homepage               = 'http://github.com/audiobahn404/sourced_attributes'
   spec.license                = 'MIT'
 end
